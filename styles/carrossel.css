@@ -26,6 +26,12 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 0.5em;
+   
+    width: 10%;
+}
+
+.card_logo {
+    width: 10%;
 }
 
 .card__botões {
